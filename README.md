@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasti Kanani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KLNKfPt8wMIZF9KxweN01HJmdtc2XCXba3fkscRV0ZoPGx_67caott-tZ_lTKujZmMA&usqp=CAU)">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7aa569058fb2909d21dcba34e54096c61ac0e634804d8044ffbae96263a459f5/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
